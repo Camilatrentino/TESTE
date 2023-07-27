@@ -29,7 +29,7 @@ nav ul li a{
 }
         
 nav ul li ul{
-            background: #BA0000;
+            background-color: #ba009b;
             top: -5000000px;
             position: absolute;
         }
